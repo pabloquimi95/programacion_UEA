@@ -1,3 +1,6 @@
+package Semana14;
+
+
 import java.util.Scanner;
 
 public class TareaFunciones {
